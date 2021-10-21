@@ -2,13 +2,14 @@
 Alternative Theme for OpenMediaVault (OMV NAS) Admin GUI
 
 ## Usage / Installation
-Connect to the server via SSH and create a themes-custom.css:
+Connect to the server via SSH and create a <code>themes-custom.css</code>:
 <br>
 <pre>
-<code>nano /var/www/openmediavault/css</code>
+<code>nano /var/www/openmediavault/css/themes-custom.css</code>
 </pre>
 <br>
 Paste code content of <code>themes-custom.css</code>. Set permissions of the file to:
+<br>
 <br>
 <pre>
 <code>openmediavault-webgui</code>
@@ -26,4 +27,6 @@ $omv-color-more-darker: #0b1625;
 </pre>
 <br>
 <br>
+## The created Custom CSS currently works with OMV v5. No guarantee can be given for older versions. Just try it out.
+<br><br>
 Have Fun ;-)

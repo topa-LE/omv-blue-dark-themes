@@ -8,13 +8,13 @@ Connect to the server via SSH and create a themes-custom.css:
 <code>nano /var/www/openmediavault/css</code>
 </pre>
 <br>
-Paste code content of themes-custom.css. Set permissions of the file to:
+Paste code content of <code>themes-custom.css</code>. Set permissions of the file to:
 <br>
 <pre>
 <code>openmediavault-webgui</code>
 </pre>
 <br>
-<br> Edit file **defaults.scss**. Adjust the omv default values at the end of the file:
+<br> Edit file ** defaults.scss **. Adjust the omv default values at the end of the file:
 <pre>
 <code>
 $omv-color-more-lighter: #b2c2cd;

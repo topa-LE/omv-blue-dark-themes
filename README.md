@@ -27,7 +27,8 @@ $omv-color-more-darker: #0b1625;
 </pre>
 <br>
 <br>
-### The created Custom CSS currently works with OMV v5. 
+The created Custom CSS currently works with OMV v5.<br>
 No guarantee can be given for older versions. Just try it out.
-<br><br>
+<br>
+<br>
 Have Fun ;-)

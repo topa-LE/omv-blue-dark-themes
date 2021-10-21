@@ -128,6 +128,7 @@ background-color : transparent;
 .x-column-header {
 color : #f3f3f3;
 background : #16212f;
+font : 300 16px/19px 'Saira Condensed','Open Sans', sans-serif;
 border-right : 1px solid #090909 !important ;
 }
 .x-column-header-over {
@@ -426,7 +427,7 @@ font-size : 16px;
 padding : 5px;
 }
 .x-form-text-default {
-font : 300 13px/21px 'Saira Condensed', sans-serif;
+font : 300 13px/21px 'Open Sans', sans-serif;
 min-height : 30px;
 color : #f3f3f3;
 background-color : #1b2939 !important ;

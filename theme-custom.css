@@ -488,3 +488,9 @@ font : 400 17px/18px 'Saira Condensed', sans-serif;
 .x-form-invalid .x-form-gridfield-body .x-grid {
 border : 1px solid #da0f0f;
 }
+li {
+font-family : 'Saira Condensed', sans-serif;
+}
+.x-form-cb-checked .x-form-checkbox-default {
+filter : none !important;
+}

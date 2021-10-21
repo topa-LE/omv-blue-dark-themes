@@ -1,6 +1,7 @@
 /** OMV Dark Blue Theme V1.0 **/
 /** for OMV 5 **/
 /** created by topaLE **/
+@import url('https://fonts.googleapis.com/css2?family=Saira+Condensed&display=swap');
 .login-page, .shutdown-page {
 background : #131a23;
 }

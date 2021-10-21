@@ -2,13 +2,13 @@
 Alternative Theme for OpenMediaVault (OMV NAS) Admin GUI
 
 ## Usage / Installation
-Connect to the server via SSH and create a <code>themes-custom.css</code>:
+Connect to the server via SSH and create a <code>theme-custom.css</code>:
 <br>
 <pre>
 <code>nano /var/www/openmediavault/css/themes-custom.css</code>
 </pre>
 <br>
-Paste code content of <code>themes-custom.css</code>. Set permissions of the file to:
+Paste code content of <code>theme-custom.css</code>. Set permissions of the file to:
 <br>
 <br>
 <pre>

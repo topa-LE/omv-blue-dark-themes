@@ -494,3 +494,6 @@ font-family : 'Saira Condensed', sans-serif;
 .x-form-cb-checked .x-form-checkbox-default {
 filter : none !important;
 }
+x-btn.x-btn-menu-active.x-btn-default-toolbar-small {
+border-color: #0e1012;
+}

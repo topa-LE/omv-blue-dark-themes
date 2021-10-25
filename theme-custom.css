@@ -503,3 +503,6 @@ border-color : #0e1012;
 .x-splitter-focus:after {
 border : 1px solid #16212f !important;
 }
+.shutdown-page {
+background : #090e16;
+}

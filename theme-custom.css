@@ -338,6 +338,9 @@ filter : invert(1) hue-rotate(180deg);
 .x-panel-header-default .x-tool-tool-el {
 background-color : #16212f;
 }
+.x-panel-header-default {
+border : 1px solid #16212f !important;
+}
 .x-form-trigger-default {
 background : #16212f;
 color : #848484;
@@ -495,5 +498,8 @@ font-family : 'Saira Condensed', sans-serif;
 filter : none !important;
 }
 x-btn.x-btn-menu-active.x-btn-default-toolbar-small {
-border-color: #0e1012;
+border-color : #0e1012;
+}
+.x-splitter-focus:after {
+border : 1px solid #16212f !important;
 }

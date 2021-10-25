@@ -2,8 +2,12 @@
 /** for OMV 5 **/
 /** created by topaLE **/
 @import url('https://fonts.googleapis.com/css2?family=Saira+Condensed&display=swap');
-.login-page, .shutdown-page {
-background : #131a23;
+.login-page {
+/*background : #131a23;*/
+/*** use own code for custom background image of login page ***/
+background : url("/images/login-bg.jpg") no-repeat center center fixed;
+background-size: cover;
+/*** use own code for custom background image of login page ***/
 }
 .x-body {
 font-size : 17px;
@@ -504,5 +508,5 @@ border-color : #0e1012;
 border : 1px solid #16212f !important;
 }
 .shutdown-page {
-background : #090e16;
+background : #090e16 !important;
 }

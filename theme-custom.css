@@ -510,3 +510,10 @@ border : 1px solid #16212f !important;
 .shutdown-page {
 background : #090e16 !important;
 }
+.x-message-box-guru-body {
+border : 5px solid #990d0d;
+color : #990d0d;
+font-family : 'Saira Condensed', sans-serif; monospace;
+font-weight: 600;
+font-size: 23px;
+}

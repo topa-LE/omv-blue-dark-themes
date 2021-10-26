@@ -42,3 +42,6 @@ No guarantee can be given for older versions. Just try it out.
 <br>
 <br>
 Have Fun ;-)
+<br>
+<br>
+![Dark Theme OMV](https://raw.githubusercontent.com/topa-LE/omv_blue_dark_themes/main/Screenshots/img_omv_dark_blue_theme.jpg)

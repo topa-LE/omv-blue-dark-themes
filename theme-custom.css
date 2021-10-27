@@ -17,6 +17,7 @@ font-family : 'Saira Condensed', sans-serif;
 .x-panel-header-title-default, .x-tree-node-text, .x-window-body-default {
 font-weight : 200;
 font-size : 16px;
+font-family : 'Saira Condensed', sans-serif;
 border-color : #0e1621;
 }
 .x-toolbar-text-default {
@@ -234,6 +235,7 @@ filter : invert(1) hue-rotate(180deg);
 color : #fff;
 border-color : #16212f;
 background-color : #16212f;
+font-family : 'Saira Condensed', sans-serif;
 }
 .x-window-default {
 background-color : #06111f;

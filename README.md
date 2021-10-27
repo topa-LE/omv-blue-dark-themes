@@ -44,4 +44,4 @@ No guarantee can be given for older versions. Just try it out.
 Have Fun ;-)
 <br>
 <br>
-![Dark Theme OMV](https://raw.githubusercontent.com/topa-LE/omv_blue_dark_themes/main/Screenshots/img_omv_dark_blue_theme.jpg)
+![Dark Theme OMV](https://github.com/topa-LE/plesk_blue_dark_theme/raw/master/screenshots/plesk-backend-screen.jpg)

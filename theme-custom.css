@@ -440,7 +440,7 @@ font-size : 16px;
 padding : 5px;
 }
 .x-form-text-default {
-font : 300 13px/21px 'Open Sans', sans-serif;
+font : 300 13px/21px 'Saira Condensed', 'Open Sans', sans-serif;
 min-height : 30px;
 color : #f3f3f3;
 background-color : #1b2939 !important ;
@@ -514,6 +514,6 @@ background : #090e16 !important;
 border : 5px solid #990d0d;
 color : #990d0d;
 font-family : 'Saira Condensed', sans-serif; monospace;
-font-weight: 600;
-font-size: 23px;
+font-weight : 600;
+font-size : 23px;
 }

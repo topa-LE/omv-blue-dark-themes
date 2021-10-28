@@ -519,3 +519,6 @@ font-family : 'Saira Condensed', sans-serif; monospace;
 font-weight : 600;
 font-size : 23px;
 }
+.x-panel-header-title-default > .x-title-text-default {
+font-family : 'Saira Condensed', sans-serif;
+}

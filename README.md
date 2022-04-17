@@ -25,6 +25,12 @@ Paste code content of <code>theme-custom.css</code>. Set permissions of the file
 <code>chown openmediavault-webgui:openmediavault-webgui theme-custom.css</code>
 </pre>
 
+## Lazy one-liner Usage / Installation
+ssh into omv with whatever application you like and paste the code into the terminal, let it do it's thing and you should have a fully functional darkthemed omv control pannel. I'll be it can have some refinements to be made but over pritty good, not complaining. Judging by the laziness you have to use a oneliner command instead of doing step by step, I dought you care about the little rough edges
+<pre>
+<code>cd /var/www/openmediavault/css/ && sudo wget https://raw.githubusercontent.com/topa-LE/omv_blue_dark_themes/main/theme-custom.css && sudo chown openmediavault-webgui:openmediavault-webgui theme-custom.css</code>
+</pre>
+
 #### Optional
 Edit file **defaults.scss**. Adjust the <code>omv</code> default values at the end of the file:
 <pre>

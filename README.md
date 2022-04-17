@@ -25,6 +25,11 @@ Paste code content of <code>theme-custom.css</code>. Set permissions of the file
 <code>chown openmediavault-webgui:openmediavault-webgui theme-custom.css</code>
 </pre>
 
+## Lazy one-liner Usage / Installation
+<pre>
+<code>cd /var/www/openmediavault/css/ && sudo wget https://raw.githubusercontent.com/topa-LE/omv_blue_dark_themes/main/theme-custom.css && sudo chown openmediavault-webgui:openmediavault-webgui theme-custom.css</code>
+</pre>
+
 #### Optional
 Edit file **defaults.scss**. Adjust the <code>omv</code> default values at the end of the file:
 <pre>
